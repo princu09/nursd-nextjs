@@ -34,7 +34,7 @@ const AdminNavbar = () => {
           icon={<MenuIcon />}
           color={"white"}
           background={colors.primary[500]}
-          onClick={() => handleChange()}
+          // onClick={() => handleChange()}
         />
       </Box>
       <Box p={1} px={2}>
